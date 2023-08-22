@@ -1,0 +1,8 @@
+Resources:
+  s3bucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: "cf-agatla-demo"
+      VersioningConfiguration:
+        Status: Enabled
+        
