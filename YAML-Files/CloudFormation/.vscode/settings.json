@@ -1,5 +1,0 @@
-{
-    "yaml.schemas": {
-        "https://raw.githubusercontent.com/aws/serverless-application-model/main/samtranslator/schema/schema.json": "file:///home/agatla/Documents/documentation/YAML-Files/CloudFormation/S3BucketCreation.yaml"
-    }
-}
